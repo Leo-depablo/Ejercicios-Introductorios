@@ -1,0 +1,14 @@
+C:\Users\leo\Desktop\vscode\Programacion1\bin\Debug\net8.0\Programacion1.exe
+C:\Users\leo\Desktop\vscode\Programacion1\bin\Debug\net8.0\Programacion1.deps.json
+C:\Users\leo\Desktop\vscode\Programacion1\bin\Debug\net8.0\Programacion1.runtimeconfig.json
+C:\Users\leo\Desktop\vscode\Programacion1\bin\Debug\net8.0\Programacion1.dll
+C:\Users\leo\Desktop\vscode\Programacion1\bin\Debug\net8.0\Programacion1.pdb
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\Programacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\Programacion1.AssemblyInfoInputs.cache
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\Programacion1.AssemblyInfo.cs
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\Programacion1.csproj.CoreCompileInputs.cache
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\Programacion1.dll
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\refint\Programacion1.dll
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\Programacion1.pdb
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\Programacion1.genruntimeconfig.cache
+C:\Users\leo\Desktop\vscode\Programacion1\obj\Debug\net8.0\ref\Programacion1.dll
