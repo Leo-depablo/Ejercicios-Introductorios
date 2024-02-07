@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\bin\Debug\net8.0\Practica_4 Ejercicios con arreglos.exe
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\bin\Debug\net8.0\Practica_4 Ejercicios con arreglos.deps.json
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\bin\Debug\net8.0\Practica_4 Ejercicios con arreglos.runtimeconfig.json
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\bin\Debug\net8.0\Practica_4 Ejercicios con arreglos.dll
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\bin\Debug\net8.0\Practica_4 Ejercicios con arreglos.pdb
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.AssemblyInfo.cs
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.sourcelink.json
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.dll
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\refint\Practica_4 Ejercicios con arreglos.dll
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.pdb
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\Practica_4 Ejercicios con arreglos.genruntimeconfig.cache
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Practica_4 Ejercicios con arreglos\obj\Debug\net8.0\ref\Practica_4 Ejercicios con arreglos.dll

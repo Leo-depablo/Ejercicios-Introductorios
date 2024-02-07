@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practica_4 Ejercicios con arreglos/1.0.0": {
+        "runtime": {
+          "Practica_4 Ejercicios con arreglos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica_4 Ejercicios con arreglos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
