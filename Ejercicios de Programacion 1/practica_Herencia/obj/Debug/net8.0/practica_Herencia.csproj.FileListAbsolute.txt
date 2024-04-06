@@ -1,0 +1,14 @@
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\bin\Debug\net8.0\practica_Herencia.exe
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\bin\Debug\net8.0\practica_Herencia.deps.json
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\bin\Debug\net8.0\practica_Herencia.runtimeconfig.json
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\bin\Debug\net8.0\practica_Herencia.dll
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\bin\Debug\net8.0\practica_Herencia.pdb
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\practica_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\practica_Herencia.AssemblyInfoInputs.cache
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\practica_Herencia.AssemblyInfo.cs
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\practica_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\practica_Herencia.dll
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\refint\practica_Herencia.dll
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\practica_Herencia.pdb
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\practica_Herencia.genruntimeconfig.cache
+C:\Users\ldepa\Desktop\pg\csharp\practica_Herencia\obj\Debug\net8.0\ref\practica_Herencia.dll
