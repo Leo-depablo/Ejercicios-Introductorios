@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base_Centralita", "Base_Centralita.csproj", "{59506CA4-B5B7-483A-9458-AC55CB21092D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59506CA4-B5B7-483A-9458-AC55CB21092D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59506CA4-B5B7-483A-9458-AC55CB21092D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59506CA4-B5B7-483A-9458-AC55CB21092D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59506CA4-B5B7-483A-9458-AC55CB21092D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B85506F-CBAD-49EF-A2EA-8B210615CF67}
+	EndGlobalSection
+EndGlobal

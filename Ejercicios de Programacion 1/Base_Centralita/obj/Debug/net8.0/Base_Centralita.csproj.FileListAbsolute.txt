@@ -1,0 +1,14 @@
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\bin\Debug\net8.0\Base_Centralita.exe
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\bin\Debug\net8.0\Base_Centralita.deps.json
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\bin\Debug\net8.0\Base_Centralita.runtimeconfig.json
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\bin\Debug\net8.0\Base_Centralita.dll
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\bin\Debug\net8.0\Base_Centralita.pdb
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\Base_Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\Base_Centralita.AssemblyInfoInputs.cache
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\Base_Centralita.AssemblyInfo.cs
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\Base_Centralita.csproj.CoreCompileInputs.cache
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\Base_Centralita.dll
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\refint\Base_Centralita.dll
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\Base_Centralita.pdb
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\Base_Centralita.genruntimeconfig.cache
+C:\Users\ldepa\Desktop\pg\csharp\Base_Centralita\obj\Debug\net8.0\ref\Base_Centralita.dll
