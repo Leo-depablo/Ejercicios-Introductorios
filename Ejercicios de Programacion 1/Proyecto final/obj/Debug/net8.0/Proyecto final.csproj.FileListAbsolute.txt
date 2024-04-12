@@ -1,0 +1,14 @@
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\bin\Debug\net8.0\Proyecto final.exe
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\bin\Debug\net8.0\Proyecto final.deps.json
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\bin\Debug\net8.0\Proyecto final.runtimeconfig.json
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\bin\Debug\net8.0\Proyecto final.dll
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\bin\Debug\net8.0\Proyecto final.pdb
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\Proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\Proyecto final.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\Proyecto final.AssemblyInfo.cs
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\Proyecto final.dll
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\refint\Proyecto final.dll
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\Proyecto final.pdb
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\Proyecto final.genruntimeconfig.cache
+C:\Users\Leo\Desktop\vscode\Programacion1\Ejercicios de Programacion 1\Proyecto final\obj\Debug\net8.0\ref\Proyecto final.dll
